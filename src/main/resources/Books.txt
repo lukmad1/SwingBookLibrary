@@ -1,0 +1,8 @@
+{"author":{"firstName":"1","lastName":"1"},"title":"1","isAvailable":true}
+{"author":{"firstName":"2","lastName":"2"},"title":"2","isAvailable":true}
+{"author":{"firstName":"1","lastName":"1"},"title":"1","isAvailable":true}
+{"author":{"firstName":"1","lastName":"1"},"title":"2","isAvailable":true}
+{"author":{"firstName":"3","lastName":"3"},"title":"2","isAvailable":true}
+{"author":{"firstName":"3","lastName":"3"},"title":"3","isAvailable":true}
+{"author":{"firstName":"3","lastName":"3"},"title":"3","isAvailable":true}
+{"author":{"firstName":"4","lastName":"4"},"title":"4","isAvailable":true}
